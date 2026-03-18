@@ -97,5 +97,5 @@ Dataset sourced from publicly available retail datasets.
 
 ## 🔗 Connect with Me
 
-(Add your LinkedIn profile link here)
+https://www.linkedin.com/in/yamini-garagapati-4bb76829b/
 
